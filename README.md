@@ -21,3 +21,15 @@ Professional security assessment of OWASP Broken Web Applications (OWASP BWA) in
 - [Post-Exploitation](./04-Post-Exploitation/)
 - [Privilege Escalation](./05-Privilege-Escalation/)
 - [Final Report](./06-Final-Report/)
+
+## Key Findings
+
+| Finding | Severity |
+|----------|----------|
+| WordPress 2.0 Installation | 🔴 High |
+| myGallery Plugin Exposure | 🔴 High |
+| Joomla 1.5 Administrative Interface | 🔴 High |
+| Tomcat Manager Interface | 🟠 Medium |
+| SMB User Enumeration | 🟠 Medium |
+| Java Serialization Service | 🟠 Medium |
+| Exposed `.bash_history` File | 🟠 Medium |
